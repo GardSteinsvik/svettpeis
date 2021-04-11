@@ -1,0 +1,11 @@
+.lineChart {
+    background-color: var(--honeydew);
+    border-radius: .5rem;
+    padding: .5rem;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--imperial-red);
+}
